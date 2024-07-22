@@ -108,4 +108,4 @@ dla polecenia `build` w pliku `package.json`.
    inicjalizowany, przechodzi linting i budowanie przed wdrożeniem.
 3. Jeśli wszystkie kroki zakończą się powodzeniem, zmontowana wersja produkcyjna
    plików projektu zostanie wysłana do gałęzi `gh-pages`. W przeciwnym razie
-   w logu wykonania skryptu pojawi się informacja o problemie
+   w logu wykonania skryptu pojawi się informacja o problemie.
